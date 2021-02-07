@@ -40,6 +40,18 @@ mode="Global">
 			id="0de42ab5-b87b-4ad4-84f2-feb48310761f">
 			</arguments>
 		</userrecorditem>
+		<loggingrecorditem
+		category="User"
+		enabled="True"
+		message="Blah"
+		optional="False"
+		reportlevel="Info;20"
+		searchpropertyid="984bfd54-6fee-466f-8db5-42d5c1275e0f">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</loggingrecorditem>
 	</recorditems>
 	<repository
 	id="2223d256-4c56-404c-a702-a7e99e4d8bf9"

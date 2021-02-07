@@ -82,6 +82,8 @@ namespace StevesGlobalBrowserDemo
             OpenBrowser();
             Delay.Milliseconds(0);
             
+            Report.Log(ReportLevel.Info, "User", "Blah", new RecordItemIndex(1));
+            
         }
 
 #region Image Feature Data
