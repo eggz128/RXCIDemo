@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc>
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="StevesGlobalBrowserDemo"
+      id="e4e1f7be-ebd3-443a-84c8-56fc00a5d6a9"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="StevesGlobalBrowserDemo"
+      id="e4e1f7be-ebd3-443a-84c8-56fc00a5d6a9"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>
