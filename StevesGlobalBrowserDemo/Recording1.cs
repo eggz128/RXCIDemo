@@ -84,6 +84,8 @@ namespace StevesGlobalBrowserDemo
             
             Report.Log(ReportLevel.Info, "User", "Blah", new RecordItemIndex(1));
             
+            Report.Log(ReportLevel.Info, "User", "Trigger the CI?", new RecordItemIndex(2));
+            
         }
 
 #region Image Feature Data
